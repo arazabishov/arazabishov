@@ -40,6 +40,3 @@ Software engineer in Oslo. Currently at Microsoft.
 #### Writing
 
 I write occasionally at [abishov.com](https://abishov.com) about mobile development, Rust, and whatever else I'm tinkering with.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
