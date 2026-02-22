@@ -43,6 +43,4 @@ I write occasionally at [abishov.com](https://abishov.com) about mobile developm
 
 ---
 
-<a href="https://github.com/arazabishov">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arazabishov&layout=compact&theme=default&hide=html,css,c,javascript,makefile,shell,c%2B%2B" alt="Top Languages" width="400">
-</a>
+<img src="images/top-langs.svg" alt="Top Languages" width="400">
