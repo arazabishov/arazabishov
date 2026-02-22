@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi, I'm Araz
 
-<!--
-**arazabishov/arazabishov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Oslo. Currently at Microsoft.
 
-Here are some ideas to get you started:
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+
+**[pvec-rs](https://github.com/ArazAbishov/pvec-rs)** — Persistent vector for Rust based on RRB trees
+
+<a href="https://pvec-rs.abishov.com/web-vis/">
+  <img src="images/pvec-rs-visualization.png" alt="pvec-rs interactive visualization" width="600">
+</a>
+
+[Interactive visualization](https://pvec-rs.abishov.com/web-vis/) · [Thesis](https://abishov.com/thesis) · [Blog post](https://abishov.com/blog/pvec-rs-visualizing-structural-sharing/)
+
+---
+
+**[PulseDisplay](https://pulsedisplay.abishov.com)** — Real-time fitness dashboard that mirrors Apple Watch workout metrics to iPhone
+
+<p>
+  <img src="images/pulsedisplay-screenshot.png" alt="PulseDisplay dashboard" width="180">
+  &nbsp;&nbsp;
+  <img src="images/pulsedisplay-heartrate.png" alt="PulseDisplay heart rate" width="180">
+  &nbsp;&nbsp;
+  <img src="images/pulsedisplay-track.png" alt="PulseDisplay running track" width="180">
+</p>
+
+---
+
+#### Open-source contributions
+
+- [microsoft/react-native-test-app](https://github.com/microsoft/react-native-test-app) — Helped design the Android integration
+- [microsoft/beachball](https://github.com/microsoft/beachball) — Contributed semantic versioning features
+
+#### Writing
+
+I write occasionally at [abishov.com](https://abishov.com) about mobile development, Rust, and whatever else I'm tinkering with.
+
+---
+
+<a href="https://github.com/arazabishov">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arazabishov&layout=compact&theme=default&hide=html,css,c,javascript,makefile,shell,c%2B%2B" alt="Top Languages" width="400">
+</a>
