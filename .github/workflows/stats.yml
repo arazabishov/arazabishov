@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: top-langs
-          output: images/top-langs.svg
+          path: images/
           options: "layout=compact&hide=html,css,c,javascript,makefile,shell,c%2B%2B"
 
       - uses: stefanzweifel/git-auto-commit-action@v5

@@ -23,7 +23,7 @@ Software engineer in Oslo. Currently at Microsoft.
 **[PulseDisplay](https://pulsedisplay.abishov.com)** — Real-time fitness dashboard that mirrors Apple Watch workout metrics to iPhone
 
 <p>
-  <img src="images/pulsedisplay-screenshot.png" alt="PulseDisplay dashboard" width="180">
+  <img src="images/pulsedisplay-dashboard.png" alt="PulseDisplay dashboard" width="180">
   &nbsp;&nbsp;
   <img src="images/pulsedisplay-heartrate.png" alt="PulseDisplay heart rate" width="180">
   &nbsp;&nbsp;
