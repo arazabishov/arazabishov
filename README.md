@@ -13,7 +13,7 @@ Software engineer in Oslo. Currently at Microsoft.
 **[pvec-rs](https://github.com/ArazAbishov/pvec-rs)** — Persistent vector for Rust based on RRB trees
 
 <a href="https://pvec-rs.abishov.com/web-vis/">
-  <img src="images/pvec-rs-visualization.png" alt="pvec-rs interactive visualization" width="600">
+  <img src="images/pvec-rs-visualization.png" alt="pvec-rs interactive visualization" width="520">
 </a>
 
 [Interactive visualization](https://pvec-rs.abishov.com/web-vis/) · [Thesis](https://abishov.com/thesis) · [Blog post](https://abishov.com/blog/pvec-rs-visualizing-structural-sharing/)
