@@ -1,26 +1,20 @@
-name: Generate GitHub Stats
+name: Update Blog Posts
 
 on:
   schedule:
     - cron: "0 0 * * 0" # weekly on Sunday
   workflow_dispatch: # allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: readme-tools/github-readme-stats-action@v1
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          card: top-langs
-          path: images/top-langs.svg
-          options: "username=arazabishov&layout=compact&hide=html,css,c,javascript,makefile,shell,c%2B%2B"
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update stats"
-          file_pattern: "images/top-langs.svg"
+          feed_list: "https://abishov.com/rss.xml"
+          max_post_count: 5

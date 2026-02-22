@@ -41,6 +41,5 @@ Software engineer in Oslo. Currently at Microsoft.
 
 I write occasionally at [abishov.com](https://abishov.com) about mobile development, Rust, and whatever else I'm tinkering with.
 
----
-
-<img src="images/top-langs.svg" alt="Top Languages" width="400">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
